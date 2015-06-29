@@ -345,7 +345,7 @@ You can also get a list of the packages installed in a format that can be shared
 	
 	$ pip freeze > requirements.txt
 
-If you examine ``requirements.txt`` using either the command ``more``, ``less`` or ``cat``, you will see the same information but in a slightly different format. The ``requirements.txt`` can then use to install the same setup by issuing the following command. This is incredibly useful for setting up your environment on another computer, for example.
+If you examine ``requirements.txt`` using either the command ``more``, ``less`` or ``cat``, you will see the same information but in a slightly different format. The ``requirements.txt`` file can then be used to install the same setup by issuing the following command. This is incredibly useful for setting up your environment on another computer, for example.
 
 ::
 	
